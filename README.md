@@ -1,16 +1,16 @@
-## Hi there 👋
+## **BEM VINDOS AO MEU PERFIL** 🍞💛💚💙
 
-<!--
-**SMILINGUID/SMILINGUID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou a kemilly Nayza, tenho 16 anos.
 
-Here are some ideas to get you started:
+- estou estudando com o alura
+  
+- ultilizo este espaço para compartilhar meus projetos javaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### para contato comigo acesse 📝
+- _instagram_= @vickd_onyver
+  
+- _Email_ = 00001124380280sp@al.educacao.sp.gov.br
+
+![image](https://github.com/SMILINGUID/SMILINGUID/assets/169839346/8d13be63-0ef6-44c1-b8d2-4c514879dc3f)
+
+  
